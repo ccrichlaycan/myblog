@@ -1,6 +1,6 @@
 ﻿+++
 title = "自动部署测试"
-date = 2026-03-17T18:20:00+08:00
+date = 2026-03-17T10:00:00+08:00
 draft = false
 tags = ["测试", "Hugo", "Cloudflare"]
 categories = ["日常"]
