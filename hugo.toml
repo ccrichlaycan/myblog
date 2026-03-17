@@ -5,13 +5,13 @@ theme = "PaperMod"
 
 [params]
   author = "CC"
-  description = "刑事律师的日常"
+  description = " "
   images = ["/covers/site-cover.jpg"]
 
   [params.profileMode]
     enabled = true
     title = "养猫的CC"
-    subtitle = "刑事律师的日常"
+    subtitle = " "
     imageUrl = "/covers/site-cover.jpg"
     imageTitle = "博客封面"
     imageWidth = 220
