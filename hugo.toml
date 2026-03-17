@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
-locale = 'zh-cn'
+languageCode = 'zh-cn'
 title = '养猫的CC'
-theme = "m10c"
+theme = "PaperMod"
 
 [params]
   author = "孟庆一"
