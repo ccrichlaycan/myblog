@@ -1,6 +1,6 @@
 baseURL = "https://mengattorney.me/"
 languageCode = "zh-cn"
-title = "CC Blog"
+title = "养猫的CC"
 theme = "PaperMod"
 
 [params]
