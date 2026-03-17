@@ -1,4 +1,4 @@
-﻿name: Deploy Hugo to Cloudflare Workers
+﻿name: Deploy Hugo to GitHub Pages
 
 on:
   push:
@@ -6,11 +6,8 @@ on:
       - main
   workflow_dispatch:
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   deploy:
@@ -29,24 +26,11 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify
+        run: hugo --gc --minify
 
-      - name: Verify Cloudflare token
-        run: |
-          if [ -z "${{ secrets.CLOUDFLARE_API_TOKEN }}" ]; then
-            echo "CLOUDFLARE_API_TOKEN is not set"
-            exit 1
-          fi
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          node-version: '22'
-
-      - name: Install Wrangler
-        run: npm install -g wrangler@4
-
-      - name: Deploy to Cloudflare Workers
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-        run: wrangler deploy
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          cname: mengattorney.me
