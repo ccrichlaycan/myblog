@@ -1,22 +1,22 @@
-baseURL = "https://mengattorney.me/"
+﻿baseURL = "https://mengattorney.me/"
 languageCode = "zh-cn"
-title = "养猫的CC"
+title = "鍏荤尗鐨凜C"
 theme = "PaperMod"
 
 [params]
   author = "CC"
   description = " "
-  images = ["/covers/site-cover.jpg"]
+  images = ["/covers/wechat-cover.jpg"]
 
   [params.profileMode]
     enabled = true
-    title = "养猫的CC"
+    title = "鍏荤尗鐨凜C"
     subtitle = " "
     imageUrl = "/covers/site-cover.jpg"
-    imageTitle = "博客封面"
+    imageTitle = "鍗氬灏侀潰"
     imageWidth = 220
     imageHeight = 220
 
   [[params.profileMode.buttons]]
-    name = "所有文章"
+    name = "鎵€鏈夋枃绔?
     url = "/posts/"
