@@ -3,6 +3,12 @@ date = '2026-03-17T12:59:40+08:00'
 draft = false
 title = '花1元做了一个独立博客'
 
+description = '用一天时间，没有任何基础，纯靠codex和Claude code搭建了个人博客' 
+
+tags = [ '建站'] 
+
+categories = ['技术]
+
 +++
 
 ## 欢迎来到我的博客
