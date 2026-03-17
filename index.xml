@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>养猫的CC</title><link>https://mengattorney.me/</link><description>Recent content on 养猫的CC</description><image><title>养猫的CC</title><url>https://mengattorney.me/covers/wechat-cover.jpg</url><link>https://mengattorney.me/covers/wechat-cover.jpg</link></image><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 17 Mar 2026 12:59:40 +0800</lastBuildDate><atom:link href="https://mengattorney.me/index.xml" rel="self" type="application/rss+xml"/><item><title>花1元做了一个独立博客</title><link>https://mengattorney.me/posts/my-first-post/</link><pubDate>Tue, 17 Mar 2026 12:59:40 +0800</pubDate><guid>https://mengattorney.me/posts/my-first-post/</guid><description>&lt;h2 id="欢迎来到我的博客"&gt;欢迎来到我的博客&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;作为一个纯文科背景的刑事律师，我用一天时间，没有任何基础，纯靠codex和Claude code搭建了个人博客。这篇文章把我的真实过程记录下来，希望对同样想建站的非技术朋友有帮助。&lt;/p&gt;
-&lt;h2 id="1用-hugo-写博客"&gt;1用 Hugo 写博客&lt;/h2&gt;
-&lt;p&gt;Hugo 是一个静态网站生成器，你写 Markdown 文章，它帮你生成完整的 HTML 网页，不需要数据库，不需要服务器。&lt;/p&gt;
-&lt;p&gt;**给小白的类比：**你在 Word 里写好文章，Hugo 就是那个&amp;quot;排版打印机&amp;quot;，把内容变成漂亮的网页。&lt;/p&gt;
-&lt;p&gt;安装 Hugo、选好主题、写完文章后，运行 &lt;code&gt;hugo&lt;/code&gt; 命令，会生成一个 &lt;code&gt;public&lt;/code&gt; 文件夹，里面是网站的全部文件。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="2用-github-pages-把网站挂上线"&gt;2用 GitHub Pages 把网站挂上线&lt;/h2&gt;
-&lt;p&gt;GitHub Pages 是 GitHub 提供的免费静态网站托管服务，把 Hugo 生成的文件推送到仓库，网站就上线了。&lt;/p&gt;
-&lt;p&gt;核心步骤&lt;/p&gt;
-&lt;p&gt;新建 GitHub 仓库 → 推送 Hugo 项目 → 仓库设置里开启 GitHub Pages → 网站默认域名 &lt;code&gt;yourname.github.io&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;这一步完成后，网站可以在全球大部分地区访问，但速度一般。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="3接入-cloudflare-cdn-加速"&gt;3接入 Cloudflare CDN 加速&lt;/h2&gt;
-&lt;p&gt;Cloudflare 是全球最大的 CDN 服务商之一，免费套餐就能用。把网站接入 Cloudflare，可以让访问速度更快，同时自动提供 HTTPS 证书。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;遇到问题：国内完全访问不了&lt;/strong&gt;
-接入 Cloudflare CDN 后，我发现在中国大陆根本打不开网站。原因是 Cloudflare 的 CDN 节点在境外，会被 GFW 拦截。&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>养猫的CC</title><link>https://mengattorney.me/</link><description>Recent content on 养猫的CC</description><image><title>养猫的CC</title><url>https://mengattorney.me/covers/wechat-cover.jpg</url><link>https://mengattorney.me/covers/wechat-cover.jpg</link></image><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 17 Mar 2026 12:59:40 +0800</lastBuildDate><atom:link href="https://mengattorney.me/index.xml" rel="self" type="application/rss+xml"/><item><title>我的第一篇博客</title><link>https://mengattorney.me/posts/my-first-post/</link><pubDate>Tue, 17 Mar 2026 12:59:40 +0800</pubDate><guid>https://mengattorney.me/posts/my-first-post/</guid><description>从零搭建个人博客的实录</description></item><item><title/><link>https://mengattorney.me/posts/20260318/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mengattorney.me/posts/20260318/</guid><description>&lt;p&gt;date = &amp;lsquo;2026-03-17T12:59:40+08:00&amp;rsquo;
+draft = false
+title = &amp;lsquo;不需要自我审查&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;description = &amp;lsquo;有独立站终于能不受平台审查限制了&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;tags = [ &amp;lsquo;随笔&amp;rsquo;]&lt;/p&gt;
+&lt;p&gt;categories = [&amp;lsquo;日常]&lt;/p&gt;
+&lt;p&gt;语言是思想的外壳，用简中写作最忌讳的就是自我审查，平台判定违规，有自己的blog以后能自由表达了。&lt;/p&gt;</description></item></channel></rss>
