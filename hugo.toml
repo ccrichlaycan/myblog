@@ -1,6 +1,6 @@
-﻿baseURL = "https://mengattorney.me/"
+baseURL = "https://mengattorney.me/"
 languageCode = "zh-cn"
-title = "鍏荤尗鐨凜C"
+title = "CC Blog"
 theme = "PaperMod"
 
 [params]
@@ -10,13 +10,13 @@ theme = "PaperMod"
 
   [params.profileMode]
     enabled = true
-    title = "鍏荤尗鐨凜C"
+    title = "CC Blog"
     subtitle = " "
     imageUrl = "/covers/site-cover.jpg"
-    imageTitle = "鍗氬灏侀潰"
+    imageTitle = "Blog cover"
     imageWidth = 220
     imageHeight = 220
 
   [[params.profileMode.buttons]]
-    name = "鎵€鏈夋枃绔?
+    name = "All posts"
     url = "/posts/"
