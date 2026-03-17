@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>养猫的CC</title><link>https://mengattorney.me/</link><description>Recent content on 养猫的CC</description><image><title>养猫的CC</title><url>https://mengattorney.me/covers/site-cover.jpg</url><link>https://mengattorney.me/covers/site-cover.jpg</link></image><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 17 Mar 2026 12:59:40 +0800</lastBuildDate><atom:link href="https://mengattorney.me/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://mengattorney.me/posts/my-first-post/</link><pubDate>Tue, 17 Mar 2026 12:59:40 +0800</pubDate><guid>https://mengattorney.me/posts/my-first-post/</guid><description>&lt;h2 id="欢迎来到我的博客"&gt;欢迎来到我的博客&lt;/h2&gt;
+&lt;p&gt;这是我的第一篇博客文章！&lt;/p&gt;
+&lt;h3 id="关于hugo"&gt;关于Hugo&lt;/h3&gt;
+&lt;p&gt;Hugo是一个快速、现代的静态网站生成器，用Go语言编写。&lt;/p&gt;
+&lt;h3 id="特点"&gt;特点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;构建速度极快&lt;/li&gt;
+&lt;li&gt;易于使用&lt;/li&gt;
+&lt;li&gt;支持多种主题&lt;/li&gt;
+&lt;li&gt;完全可定制&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
