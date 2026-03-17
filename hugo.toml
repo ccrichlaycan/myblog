@@ -1,10 +1,22 @@
-baseURL = 'https://myblog.dp-mengqing.workers.dev/'
-languageCode = 'zh-cn'
-title = '养猫的CC'
+baseURL = "https://myblog.dp-mengqing.workers.dev/"
+languageCode = "zh-cn"
+title = "养猫的CC"
 theme = "PaperMod"
 
 [params]
   author = "孟庆一"
   description = "刑事律师的日常"
-  avatar = "/avatar.jpg"
-  images = ["/avatar.jpg"]
+  images = ["/covers/site-cover.jpg"]
+
+  [params.profileMode]
+    enabled = true
+    title = "养猫的CC"
+    subtitle = "刑事律师的日常"
+    imageUrl = "/covers/site-cover.jpg"
+    imageTitle = "博客封面"
+    imageWidth = 220
+    imageHeight = 220
+
+  [[params.profileMode.buttons]]
+    name = "所有文章"
+    url = "/posts/"

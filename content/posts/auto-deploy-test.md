@@ -1,9 +1,13 @@
-﻿+++
++++
 title = "自动部署测试"
 date = 2026-03-17T10:00:00+08:00
 draft = false
 tags = ["测试", "Hugo", "Cloudflare"]
 categories = ["日常"]
+
+[cover]
+image = "/covers/site-cover.jpg"
+alt = "自动部署测试封面"
 +++
 
 这是一篇自动部署链路测试文章。
