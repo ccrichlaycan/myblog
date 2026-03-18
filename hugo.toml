@@ -23,3 +23,12 @@ theme = "PaperMod"
 [taxonomies]
   tag = 'tags'
   category = 'categories'
+  [[menu.main]]
+  name = '分类'
+  url = '/categories/'
+  weight = 2
+
+[[menu.main]]
+  name = '标签'
+  url = '/tags/'
+  weight = 3
