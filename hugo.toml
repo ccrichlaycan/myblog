@@ -32,3 +32,4 @@ theme = "PaperMod"
   name = '标签'
   url = '/tags/'
   weight = 3
+  
