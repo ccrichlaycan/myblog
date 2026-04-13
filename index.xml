@@ -1,1 +1,108 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>养猫的CC</title><link>https://mengattorney.me/</link><description>Recent content on 养猫的CC</description><image><title>养猫的CC</title><url>https://mengattorney.me/covers/wechat-cover.jpg</url><link>https://mengattorney.me/covers/wechat-cover.jpg</link></image><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 18 Mar 2026 09:08:00 +0800</lastBuildDate><atom:link href="https://mengattorney.me/index.xml" rel="self" type="application/rss+xml"/><item><title>测试文章</title><link>https://mengattorney.me/posts/no.2/</link><pubDate>Wed, 18 Mar 2026 09:08:00 +0800</pubDate><guid>https://mengattorney.me/posts/no.2/</guid><description>测试</description></item><item><title>独立博客</title><link>https://mengattorney.me/posts/no.1/</link><pubDate>Tue, 17 Mar 2026 12:59:40 +0800</pubDate><guid>https://mengattorney.me/posts/no.1/</guid><description>&lt;p&gt;无&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>养猫的CC</title><link>https://mengattorney.me/</link><description>Recent content on 养猫的CC</description><image><title>养猫的CC</title><url>https://mengattorney.me/covers/wechat-cover.jpg</url><link>https://mengattorney.me/covers/wechat-cover.jpg</link></image><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://mengattorney.me/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://mengattorney.me/posts/%E7%90%86%E6%83%B3%E5%9B%BD%E8%A7%A3%E8%AF%BB/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mengattorney.me/posts/%E7%90%86%E6%83%B3%E5%9B%BD%E8%A7%A3%E8%AF%BB/</guid><description>&lt;h2 id="title--理想国解读从正义是强者的利益到厄尔的神话"&gt;date = &amp;lsquo;2026-04-13T11:40:40+08:00&amp;rsquo;
+draft = false
+title = &amp;lsquo;理想国解读——从&amp;quot;正义是强者的利益&amp;quot;到厄尔的神话&amp;rsquo;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;柏拉图 著 · 苏格拉底 言&lt;br&gt;
+本文为全书中文导读，涵盖第一卷至第十卷核心论证&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="目录"&gt;目录&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="#%E4%B8%80%E8%89%B2%E6%8B%89%E5%8F%99%E9%A9%AC%E9%9C%8D%E6%96%AF%E7%9A%84%E6%8C%91%E6%88%98%E6%AD%A3%E4%B9%89%E6%98%AF%E5%BC%BA%E8%80%85%E7%9A%84%E5%88%A9%E7%9B%8A"&gt;色拉叙马霍斯的挑战：正义是强者的利益&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#%E4%BA%8C%E6%A0%BC%E5%8A%B3%E5%AD%94%E4%B8%8E%E9%98%BF%E5%BE%B7%E6%9B%BC%E6%89%98%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%8C%91%E6%88%98%E6%89%8D%E5%88%9A%E5%BC%80%E5%A7%8B"&gt;格劳孔与阿德曼托斯：真正的挑战才刚开始&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#%E4%B8%89%E5%BB%BA%E5%9F%8E%E4%B8%8E%E7%81%B5%E9%AD%82%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95%E6%9C%80%E7%B2%BE%E5%A6%99%E7%9A%84%E5%93%B2%E5%AD%A6%E7%A7%BB%E5%8A%A8"&gt;建城与灵魂：苏格拉底最精妙的哲学移动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#%E5%9B%9B%E6%B4%9E%E7%A9%B4%E5%A4%AA%E9%98%B3%E4%B8%8E%E7%BA%BF%E6%AE%B5%E6%9F%8F%E6%8B%89%E5%9B%BE%E8%AE%A4%E8%AF%86%E8%AE%BA%E7%9A%84%E4%B8%89%E9%87%8D%E5%A5%8F"&gt;洞穴、太阳与线段：柏拉图认识论的三重奏&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#%E4%BA%94%E4%BA%94%E7%A7%8D%E6%94%BF%E4%BD%93%E6%94%BF%E6%B2%BB%E8%A1%B0%E8%B4%A5%E7%9A%84%E8%82%96%E5%83%8F"&gt;五种政体：政治衰败的肖像&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#%E5%85%AD%E5%8E%84%E5%B0%94%E7%9A%84%E7%A5%9E%E8%AF%9D%E8%AE%BA%E8%AF%81%E7%BB%88%E6%AD%A2%E4%B9%8B%E5%A4%84%E6%95%85%E4%BA%8B%E5%BC%80%E5%A7%8B"&gt;厄尔的神话：论证终止之处，故事开始&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="一色拉叙马霍斯的挑战正义是强者的利益"&gt;一、色拉叙马霍斯的挑战：正义是强者的利益&lt;/h2&gt;
+&lt;h3 id="命题的来源"&gt;命题的来源&lt;/h3&gt;
+&lt;p&gt;这一命题出自&lt;strong&gt;色拉叙马霍斯&lt;/strong&gt;（Thrasymachus），第一卷中他愤怒地闯入对话，嘲笑苏格拉底和玻勒马科斯的讨论过于天真。他的核心主张是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;正义不过是强者的利益。&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他的逻辑：每个城邦的统治者都按照自己的利益制定法律——僭主制定有利于僭主的法律，民主制制定有利于民主派的法律——而这些法律被称为&amp;quot;正义&amp;quot;。因此，正义的本质就是服务于权力。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="第一轮驳斥统治者会犯错"&gt;第一轮驳斥：统治者会犯错&lt;/h3&gt;
+&lt;p&gt;苏格拉底先接受色拉叙马霍斯的前提——&lt;strong&gt;服从统治者的命令是正义的&lt;/strong&gt;——然后追问：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;统治者会不会判断失误，制定出实际上&lt;strong&gt;损害自身利益&lt;/strong&gt;的法律？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;色拉叙马霍斯起初承认统治者会犯错。苏格拉底随即指出矛盾：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果正义 = 服从统治者命令&lt;/li&gt;
+&lt;li&gt;统治者命令 = 统治者认为对自己有利的事&lt;/li&gt;
+&lt;li&gt;但统治者可能判断错误，命令的结果反而&lt;strong&gt;损害&lt;/strong&gt;自己&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;→ 那么臣民遵守这道命令，做的就是&lt;strong&gt;对强者不利&lt;/strong&gt;的事，却仍然叫&amp;quot;正义&amp;quot;——这与&amp;quot;正义是强者的利益&amp;quot;直接矛盾。&lt;/p&gt;
+&lt;p&gt;色拉叙马霍斯急忙修正：&lt;strong&gt;真正的统治者不会犯错&lt;/strong&gt;，正如真正的医生不会误诊。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="第二轮驳斥技艺的本质"&gt;第二轮驳斥：技艺的本质&lt;/h3&gt;
+&lt;p&gt;每一门技艺（τέχνη）的本质是：&lt;strong&gt;服务于其对象的利益，而非技艺者自身的利益&lt;/strong&gt;。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;技艺&lt;/th&gt;
+&lt;th&gt;服务对象&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;医术&lt;/td&gt;
+&lt;td&gt;病人的健康&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;航海术&lt;/td&gt;
+&lt;td&gt;乘客的安全&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;牧羊术&lt;/td&gt;
+&lt;td&gt;羊群的利益&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;统治术&lt;/td&gt;
+&lt;td&gt;被统治者的利益&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;推论&lt;/strong&gt;：如果统治是一门技艺，那么统治者作为统治者，其职责是增进&lt;strong&gt;被统治者的利益&lt;/strong&gt;，而非自身利益。&lt;/p&gt;
+&lt;p&gt;→ 色拉叙马霍斯的命题被完全倒转：&lt;strong&gt;正义（正确的统治）是弱者（被统治者）的利益&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="色拉叙马霍斯的反击牧羊人的比喻"&gt;色拉叙马霍斯的反击：牧羊人的比喻&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;牧羊人养羊，难道是为了羊的利益？他养羊是为了&lt;strong&gt;剪羊毛和吃羊肉&lt;/strong&gt;。同样，统治者治理人民，是为了&lt;strong&gt;榨取利益&lt;/strong&gt;，不是为了人民好。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他进一步断言：&lt;strong&gt;不正义&lt;/strong&gt;才是聪明人的选择。完全的不正义（如僭主）比正义更有利可图。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="第三轮驳斥三个论证"&gt;第三轮驳斥：三个论证&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;论证一：技艺与报酬的分离&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;医生同时在行使两种技艺：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;医术&lt;/strong&gt;：目的是治愈病人&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;赚钱的技艺&lt;/strong&gt;：目的是获取报酬&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;两者在逻辑上可分离。统治术本身的目的依然是被治理者的利益。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;论证二：好人为何愿意统治&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有德行的人通常&lt;strong&gt;不愿意统治&lt;/strong&gt;——统治是一种负担，而不是获利手段。好人之所以同意执政，恰恰是&lt;strong&gt;为了避免被更坏的人统治&lt;/strong&gt;。统治的本质是一种&lt;strong&gt;服务与牺牲&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;论证三：不正义者无法协作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;即便是强盗团伙，内部也需要&lt;strong&gt;某种正义&lt;/strong&gt;才能协作。完全不正义的人彼此倾轧，连集体行动都无法完成。不正义不是力量的来源，而是&lt;strong&gt;分裂与削弱&lt;/strong&gt;的来源。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="论证结构一览"&gt;论证结构一览&lt;/h3&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;色拉叙马霍斯：正义 = 强者的利益
+↓
+苏：统治者会犯错 → 命令可能损害自身 → 矛盾
+↓
+色修正：真正的统治者不犯错
+↓
+苏：技艺本质上服务对象，非技艺者自身
+↓
+色反击：牧羊人养羊为剪毛，不正义更合算
+↓
+苏：技艺与赚钱可分离 / 好人不愿统治 / 不正义无法协作
+↓
+结论：正义是被统治者的利益；正义者灵魂更健全
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="二格劳孔与阿德曼托斯真正的挑战才刚开始"&gt;二、格劳孔与阿德曼托斯：真正的挑战才刚开始&lt;/h2&gt;
+&lt;h3 id="为什么第一卷不算完"&gt;为什么第一卷不算完？&lt;/h3&gt;
+&lt;p&gt;第一卷结束时，色拉叙马霍斯其实并未被真正说服——他只是&lt;strong&gt;沉默了&lt;/strong&gt;，带着不满离场。苏格拉底自己也承认论证有漏洞。&lt;/p&gt;</description></item></channel></rss>
