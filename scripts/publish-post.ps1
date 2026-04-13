@@ -23,11 +23,12 @@ function New-Slug {
   return $slug
 }
 
-$repoRoot = (git rev-parse --show-toplevel).Trim()
-if (-not $repoRoot) {
-  throw "Not inside a git repository."
+# Resolve repo root from script location to avoid Unicode path issues from git output.
+$repoRoot = [System.IO.Path]::GetFullPath((Join-Path $PSScriptRoot ".."))
+if (-not (Test-Path -LiteralPath (Join-Path $repoRoot ".git"))) {
+  throw "Repository root not found from script path: $repoRoot"
 }
-Set-Location $repoRoot
+Set-Location -LiteralPath $repoRoot
 
 $slug = New-Slug -InputText $Title
 $postPath = Join-Path $repoRoot "content/posts/$slug.md"
