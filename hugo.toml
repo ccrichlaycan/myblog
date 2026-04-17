@@ -34,7 +34,7 @@ copyright = "&copy; 2026, CC"
   description = "刑事律师"
   header_title = "孟庆一律师"
   header_subtitle = "专注刑事辩护"
-  home_image = "/covers/sitecovr.jpg"
+  home_image = "/covers/sitecovr.jpeg"
   recent_posts = 5
   mainSections = ["posts", "post"]
 
