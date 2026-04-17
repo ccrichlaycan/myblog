@@ -1,6 +1,6 @@
 baseURL = "https://mengattorney.me/"
 languageCode = "zh-cn"
-title = "养猫的CC"
+title = "孟庆一律师"
 theme = "devise"
 relativeURLs = true
 enableEmoji = true
@@ -31,9 +31,9 @@ copyright = "&copy; 2026, CC"
 
 # 配置参数
 [params]
-  description = "CC的个人博客"
-  header_title = "养猫的CC"
-  header_subtitle = "CC Blog"
+  description = "刑事律师"
+  header_title = "孟庆一律师"
+  header_subtitle = "专注刑事辩护"
   home_image = "/covers/site-cover.jpg"
   recent_posts = 5
   mainSections = ["posts", "post"]
